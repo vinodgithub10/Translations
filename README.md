@@ -28,12 +28,23 @@ Before using the model, ensure you have the following prerequisites:
 
    ```bash
    git clone [repository-url]
+   
 Input Sentences:
+
+
 "Definitely share your feedback in the comment section."
+
 "So even if it's a big video, I will clearly mention all the products."
+
 "I was waiting for my bag."
+
 Hinglish Translations:
+
+
 "बिल्कुल कमेंट सेक्शन में अपनी फीडबैक शेयर करें।"
+
 "तो यहाँ तक कि यदि यह एक बड़ा वीडियो है, मैं सभी उत्पादों को स्पष्ट रूप से उल्लिखित करूंगा।"
+
 "मैं अपने थैले का इंतजार कर रहा था।"
+
 These Hinglish translations aim to maintain naturalness and clarity while providing a translation of the English sentences. Please note that the quality of translation may vary depending on the complexity of the input text and the translation model used.
